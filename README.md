@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Sree Hari P - Electronics & Communication Engineer | Software Developer | 5G Antenna Researcher" />
+</p>
+
 # Hi there 👋, I'm Sree Hari P  
 
 💻 **Electronics & Communication Engineer | Software Developer | Antenna Researcher**  
