@@ -1,74 +1,60 @@
+<!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Sree Hari P - Electronics & Communication Engineer | Software Developer | 5G Antenna Researcher" />
+  <img src="https://github.com/SreeHariP/SreeHariP/blob/main/banner.png" alt="Banner" />
 </p>
 
-# Hi there 👋, I'm Sree Hari P  
+# Hi, I'm Sree Hari 👋  
 
-💻 **Electronics & Communication Engineer | Software Developer | Antenna Researcher**  
-🔹 Passionate about **5G antennas, Machine Learning, and Compiler/Parser Development**  
-🔹 Currently an **Intern @ McLaren Strategic Solutions** – building a **Sybase Stored Procedure Parser (AST Generator)**  
-🔹 Experienced with **Python, ANTLR, SQL, ANSYS HFSS, Arduino, Raspberry Pi**  
+🎓 Electronics & Communication Engineer | 📡 5G Antenna Researcher | 💻 Software Developer Intern  
 
----
-
-## 🚀 Featured Projects  
-
-### 🛠️ Sybase Stored Procedure Parser (Internship)  
-Enterprise-grade **AST Generator** for Sybase stored procedures using **Python + ANTLR**, supporting control flows, cursors, and transformations.  
-➡️ [Repository Link](#)  
-
-### 📡 MIMO Antenna Design for Sub-6GHz 5G  
-Designed & optimized **MIMO patch antennas** with **hybrid ML models (ANN, CNN, RF, HGNN, KBNN)** to improve gain, S11, and isolation.  
-➡️ [Repository Link](#)  
-
-### 🛰️ Raspberry Pi Based Small Satellite  
-Built a low-cost **weather & atmosphere data collection satellite** using Raspberry Pi, sensors, and telemetry.  
-
-### 🤖 Arduino Robot Car for Military Applications  
-Developed a **multipurpose robotic car** for military use with **Arduino Uno**, equipped with wireless control and automation.  
+I’m passionate about combining **electronics, communication systems, and software development** to build real-world solutions — from **MIMO antenna design for 5G** to **enterprise-grade parsers**.  
 
 ---
 
-## 📊 Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![ANTLR](https://img.shields.io/badge/ANTLR-DC322F?logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-![ANSYS HFSS](https://img.shields.io/badge/ANSYS%20HFSS-FFB71B?logo=ansys&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8800?logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 🚀 About Me  
+- 🔬 Research on **MIMO antenna design & optimization using Machine Learning for sub-6GHz 5G**  
+- 🤖 Built projects: **Small Satellite (Raspberry Pi)**, **Military Robot Car (Arduino Uno)**, **RFID Attendance System (Arduino Nano)**  
+- 💼 Currently interning at **McLaren Strategic Solutions** on a **Sybase Stored Procedure Parser (AST Generator)**  
+- ⚡ Interested in **AI-driven wireless systems, high-performance computing, and backend development**  
 
 ---
 
-## 🔄 Integration Flow (Internship Project)  
+## 📈 GitHub Stats  
 
-```mermaid
-flowchart LR
-    A["Sybase .sql Files"]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreeHariP&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-    subgraph Pipeline["Modernization Pipeline"]
-        B["Tool 1: Indexer"]
-        C["Tool 2: Parser (This Tool)"]
-        D["Tool 3: Documentation Generator"]
-        E["Tool 4: Lineage Analyzer"]
-        F["Tool 5: SP Transformer"]
-        G["Tool 6: Validator & Report"]
-    end
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeHariP&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-    H["Postgres .sql Files"]
+---
 
-    A --> B
-    A --> C
-    B --> D
-    C --> D
-    B --> E
-    C --> E
-    C --> F
-    F --> G
-    E --> G
-    D --> G
-    G --> H
+## 🛠 Tech Stack  
+
+- **Languages:** Python, C, C++, SQL, MATLAB  
+- **Frameworks/Tools:** ANSYS HFSS, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
+- **Hardware:** Raspberry Pi, Arduino, Microcontrollers  
+- **Other:** Git, Linux, Stored Procedure Parsing (Sybase), Compiler/Parser Design  
+
+---
+
+## 📌 Projects  
+
+- 🛰 **Small Satellite (Raspberry Pi):** Collected weather & atmospheric data in real-time  
+- 🤖 **Military Robot Car (Arduino Uno):** Multi-purpose robot for surveillance & defense support  
+- 🎫 **RFID Attendance System (Arduino Nano):** Automated attendance tracker for students  
+- 📡 **MIMO Antenna Design for 5G:** Designed & optimized patch antenna models using ML  
+
+---
+
+## 🌐 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 📧 Email: your-email@example.com  
+- [GitHub](https://github.com/SreeHariP)  
+
+---
+
+⭐️ From [SreeHariP](https://github.com/SreeHariP)
