@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/SreeHariP/SreeHariP/blob/main/banner.png" alt="Banner" />
+  <img src="https://github.com/srehrix/SreeHariP/blob/main/banner.png" alt="Banner" />
 </p>
 
 # Hi, I'm Sree Hari 👋  
@@ -53,8 +53,8 @@ I’m passionate about combining **electronics, communication systems, and softw
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
 - 📧 Email: your-email@example.com  
-- [GitHub](https://github.com/SreeHariP)  
+- [GitHub](https://github.com/srehrix)  
 
 ---
 
-⭐️ From [SreeHariP](https://github.com/SreeHariP)
+⭐️ From [SreeHariP](https://github.com/srehrix)
