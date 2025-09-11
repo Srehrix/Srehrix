@@ -15,7 +15,7 @@ I’m passionate about combining **electronics, communication systems, and softw
 - 🔬 Research on **MIMO antenna design & optimization using Machine Learning for sub-6GHz 5G**  
 - 🤖 Built projects: **Small Satellite (Raspberry Pi)**, **Military Robot Car (Arduino Uno)**, **RFID Attendance System (Arduino Nano)**  
 - 💼 Currently interning at **McLaren Strategic Solutions** on a **Sybase Stored Procedure Parser (AST Generator)**  
-- ⚡ Interested in **AI-driven wireless systems, high-performance computing, and backend development**  
+- ⚡ Interested in **IoT, AI-driven wireless systems, high-performance computing, and backend development**  
 
 ---
 
