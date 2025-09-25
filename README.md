@@ -51,8 +51,8 @@ I’m passionate about combining **electronics, communication systems, and softw
 
 ## 🌐 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 Email: your-email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/sree-hari-p/)  
+- 📧 Email: p.sreehari2003@gmail.com  
 - [GitHub](https://github.com/srehrix)  
 
 ---
