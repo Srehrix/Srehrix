@@ -5,7 +5,7 @@
 
 # Hi, I'm Sree Hari 👋  
 
-🎓 Electronics & Communication Engineer | 📡 5G Antenna Researcher | 💻 Software Developer Intern  
+🎓 Electronics & Communication Engineer | 📡 5G Antenna Researcher | 💻 Software Developer  
 
 I’m passionate about combining **electronics, communication systems, and software development** to build real-world solutions — from **MIMO antenna design for 5G** to **enterprise-grade parsers**.  
 
@@ -14,7 +14,10 @@ I’m passionate about combining **electronics, communication systems, and softw
 ## 🚀 About Me  
 - 🔬 Research on **MIMO antenna design & optimization using Machine Learning for sub-6GHz 5G**  
 - 🤖 Built projects: **Small Satellite (Raspberry Pi)**, **Military Robot Car (Arduino Uno)**, **RFID Attendance System (Arduino Nano)**  
-- 💼 Currently interning at **McLaren Strategic Solutions** on a **Sybase Stored Procedure Parser (AST Generator)**  
+- 💼 **Completed internship** at **McLaren Strategic Solutions**, where I worked on a **Sybase Stored Procedure Parser (AST Generator)**  
+  - Implemented enterprise-grade AST schema for Sybase stored procedures  
+  - Supported dynamic SQL, cursors, TRY-CATCH, and complex control structures  
+  - Enhanced parser for CREATE TABLE constraints (NOT NULL, DEFAULT, FOREIGN KEY, etc.)  
 - ⚡ Interested in **IoT, AI-driven wireless systems, high-performance computing, and backend development**  
 
 ---
@@ -36,7 +39,7 @@ I’m passionate about combining **electronics, communication systems, and softw
 - **Languages:** Python, C, C++, SQL, MATLAB  
 - **Frameworks/Tools:** ANSYS HFSS, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
 - **Hardware:** Raspberry Pi, Arduino, Microcontrollers  
-- **Other:** Git, Linux, Stored Procedure Parsing (Sybase), Compiler/Parser Design  
+- **Other:** Git, Stored Procedure Parsing (Sybase), Compiler/Parser Design  
 
 ---
 
