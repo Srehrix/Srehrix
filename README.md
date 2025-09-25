@@ -51,9 +51,19 @@ I’m passionate about combining **electronics, communication systems, and softw
 
 ## 🌐 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/sree-hari-p/)  
-- [📧 Email](p.sreehari2003@gmail.com)  
-- [GitHub](https://github.com/srehrix)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sree-hari-p/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:p.sreehari2003@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" height="30"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/srehrix" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+</p>
 
 ---
 
